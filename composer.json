@@ -1,0 +1,11 @@
+{
+	"require": {
+		"google/photos-library": "^1.1",
+		"symfony/console": "^4.2"
+	},
+	"autoload": {
+		"psr-4": {
+			"bheller\\GooglePhotosUploader\\": "src"
+		}
+	}
+}
